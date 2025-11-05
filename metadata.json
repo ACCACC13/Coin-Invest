@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Crypto Installment Investment Planner",
+  "description": "A simple web application to plan and track cryptocurrency investments based on a 7-installment strategy. Users can input their total USDT amount, and the app allocates it to BTC, ETH, and BNB, breaking it down into manageable investment portions and allowing users to track their progress.",
+  "requestFramePermissions": []
+}
